@@ -1,4 +1,5 @@
 smart-data-engineering
 ======================
 
-smart data engineering
+Note and Blog for smart data engineering
+
