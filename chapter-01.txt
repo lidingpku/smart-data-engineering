@@ -73,4 +73,4 @@ Regulation
 * when there are some, it will be barriers for new comers
 
 Reference (software is eating the world)
-* Class 10 Notes Essay—After Web 2.0 http://blakemasters.com/post/22660214207/peter-thiels-cs183-startup-class-10-notes-essay
+* Class 10 Notes Essayï¿½After Web 2.0 http://blakemasters.com/post/22660214207/peter-thiels-cs183-startup-class-10-notes-essay
