@@ -1,46 +1,41 @@
-1. what is smart data
 
+1. what is smart data
+We discussed the definition of smart data at the very begining. Although we didn't reach an absolute agreement on what is smart data, but the concern that data will be more of 
 
 2. Discussion -- growth mode: 
-does startup always have exponetial growth? Paulgram was right on social-network based viral market, but not necessary true in other domain.
-- data market is a new market, cannot explode right away  ????  from linear to exponetial (3/4 year later) e.g. evernote
+Later we talked about the speed and scale of growth of startups. According to the lecture, the market growth will resemble a sigmoid function, where it grows slowly but steadly in the initial phase, then into exponential growth in the phase of a relatively matural period of time  ,and finally slows down until the market share saturated. We argued on whether startup always have exponetial growth? Paulgram was right on social-network based viral market, but not necessary true in other domain.
+- We believe that data market is a new market, which cannot explode right away. It might take 3 to 4 years of from linear growth at best and then into exponential growth. One example is evernote, which is founed in 2004 but only enter the phase of rapid growth and investment until 2009. Therefore the eutrepreneur should be patient and persistent to accomplish a great success.
 
 Reference
 * Startup=Growth http://www.paulgraham.com/growth.html
 
 3. Discussion -- timing:
-* data api has growing market: web data api is ready in market (e.g. JSON)
-* the need for breakdown: 
-   -- functionality integration company now outsource components to other vendors
-   -- vertical domain split
-* standards emerge from distributed demands
-* a little bit early (but better than 2006 generation)
+We also talked about timing, i.e. what's the best time to enter a market in order to get the most revenue.As the sigmoid function illustrated, entering at the early stage might not be a good strategy, as the upper stream and lower stream industries might not be well prepared, such that a 'silo' superstar product cannot drive the whole industry. The best timing is when the related technologies, products and demands are just in need. Essentially, it is when the industry standards and requirements are clear, as outsourcing become a best way to boost the profit margin to the largest scale. A few discussion around this topic is as following:  
 
+* Is data API a market?Data api has growing market.As the multi-facets of web have come to people's life, lots of parties are focusing on a vertical domain, trying to do the best in a speicific field and provide a general service that other parties and easily integrate into their own business. Services such as Gravatar, OpenAmplify, Paypal and even Facebook are good examples. Then 'language' that each API talk to each other are but not limited to JSON,XML etc.
 
-???????  http://baojie.org/blog/2012/01/14/it-is-time-for-semantic-web/
+* Note that the standards emerge from distributed demands and people come to an mutual agreement when lots of practices are coducted. An good example is JSON, where it both provide a structured way to model the data and still keeps simplicity. 
 
-Question
-* is 2013 a good time for startups in semantic technology?
-* is data api a market?
-* is the value of web  structured data precieved?
+* Is 2013 a good time for startups in semantic technologies? In terms of the smart data and semantic web domain, it is probably a little bit early (better than 2006 generation),but still a good timing. We observe the ever demanding requirements on integrate heterogenou data to serve diverse purposes in the enterprise domain.
 
-Sigmoid curve of maturation
+* Is the value of web structured data perceived? We don't know yet,but we do observe some trend, as some companies, for example online banking and electricity companies are trying to provide data in format of csv to customers. 
 
-Reference 
+Reference:  
+* http://baojie.org/blog/2012/01/14/it-is-time-for-semantic-web/
 * The Last Mover Advantage http://blakemasters.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay
 * Innvoator's Dilemma
 
-
 4. Discussion -- customer segement 
-* consumer market (none) 
-* enterprise market (early stage, )
-* government (majority, )  semantic
+* Is the consumer market ready for the smart data/semantic technology? We think the answer is probably no, as the still the personal knowledge managment is lacking of good tools to capture and record the data produced by the consumer in a way that is intuitive and easy to use. 
+* How about the enterprise market? We believe it is still at an early stage,as we observe the collapse of a few companies that try to sell semantic solutions to enterprise customers. 
+* It is fact that government market is majority that consume semantic technolgoies. The number of data.gov projects are serving the purpose of a growing demand of 'open/opaque government' use quite a handful of semantic technologies to integrate the provide the data to parties of interests.  
 
 
-5. Environment/Barrier  
-* Goverment regulation -- startup is not easy in heavily regulated industries
-* Capital -- some industry needs high intial investment, not good for startups
-* Technology
+5. Environment/Barrier 
+We also discussed the optimal environment and noticable barriers for startups. 
+* Goverment regulation -- startup is not easy in heavily regulated industries. Industries such as refinery, requires complicated evaluation, certificate etc which takes lots of resource and effort to obtain.  
+* Capital -- some industry needs high intial investment, not good for startups. For those industries, there are already big players which make the pre-requisite quite high in terms of different kinds of resources. 
+* Considering the fact there are quite a handful amount of open source software, a tech startup might not need worry too much on tech resources other than the tech capabilities of all the co-founders. 
 
 
 
