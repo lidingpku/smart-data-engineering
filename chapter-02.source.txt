@@ -1,0 +1,120 @@
+Startup Engineering 2
+
+
+==Anoucement==
+
+We will have the 2nd class on Sun, Jun 30, 2013 2-5pm at my garage
+
+The engineering side of this class should be easy for you. You shall already be familiar with Linux. Thus, our focus will be introducing node.js. 
+
+Please read the class notes before the class
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf
+
+If you have not tried last week's tutorial, please follow class 1 notes. Please make sure you have your Heroku account and deploy a "hello world" app following the note's instruction
+https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture2-interactive-start.pdf
+
+On the business side, there is no video from the Coursera class. We will complement it with "How to Build a Startup" on udacity. We will cover https://www.udacity.com/course/ep245
+* Lesson 0: Before You Get Started
+* Lesson 1: What we Now Know
+* Lesson 1.5 A and B: Business Models and Customer Development
+
+==Business==
+
+Two main reference books
+* Business Model Generation
+* The Startup Owner's Manual
+
+Entrepreneurship
+* The Princeton Entrepreneurship Club http://www.princetoneclub.com
+
+* Download the Business Model Canvas at 
+http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf
+
+KEY MESSAGE: startups are not a smaller version of a large company
+
+Question: how startups are different from larger companies?
+
+Yicheng
+* Startup is focused for smaller group of people on wider idea
+* Iterative
+* Flexible
+* Multi ideas at the same problem
+
+Yu
+* Employee: startups excepts now. 
+* Large company employees are more specialized. 
+
+Steve
+* Startup is about searching, large company is about executing
+
+
+Question: When and where 5-yr plan works?    
+
+Question : is a local barber is a startup?
+
+Yicheng:
+1. Must focused on expansion and not just hyper local: e.g. Uber is locally based but repeated across the nation
+Jie:
+1. Startups are not restricted to absolute new things
+2. Startups are scalable and repeatable   
+
+Compare Agile Development vs Business Model Generation
+* Iterative (NOT waterfall)
+* Expect uncertainty 
+
+Why large company innovate even if the possiblity of failure is high?
+1. The gain by innocation, even if with low possibity, can still compensate the cost of failure
+
+Why startup fails?
+* startup should have a hard "core"
+
+Startup is a temproral organization
+* Founders must be prepared
+
+Example company to discuss
+* Clinkle http://www.crunchbase.com/company/clinkle-2
+
+HOMEWORK: make your best evaluation of clinkle's bussiness model
+
+Question: Jobs vs. Bussiness
+* You have a business if you make money when you are sleeping
+
+Question: What's a company
+* For founders: a levergage
+
+Paul Graham: How to Make Wealth http://www.paulgraham.com/wealth.html
+
+Human needs: about knowledge
+* Evenote: capture, index everything; manage and organize snippet
+* Human limited capcapity to store knowledge
+* Human is super-curious,  http://baojie.org/blog/2011/12/03/human-is-a-strange-animal/
+* Human is informavore http://en.wikipedia.org/wiki/Informavore
+* https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+
+Pateners
+* founders
+* VC
+** good money vs bad money
+** don't accept food from strangers, dont' accept money from strangers
+
+Yicheng: Are some parts of the business model not necessary initially? e.g. social startups have no revenue stream
+* Pinterest case 
+** Annalect Research Study on Pinterest - From Pins to Purchase 
+https://www.evernote.com/shard/s93/sh/6af4cce1-ca61-4ce9-9059-3c509b7cc5e8/16aa1c9033df60f96d77693c416eb991
+* value 
+** yu: how much people's life is changed by having the service 
+* valuation
+
+Yu: do a real case study 
+
+Recommended reading: Paypal case in Founders at Work 
+
+==Engineering==
+
+Node.js basics 
+
+
+Example project: Faceted browsing - important HCI tool
+*   better facet search using elasticsearch
+
+
